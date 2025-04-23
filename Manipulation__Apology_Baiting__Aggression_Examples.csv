@@ -1,0 +1,16 @@
+message_text,abuse_patterns,abuse_type,abuser_profile,motifs_matched,antecedent_context,behavior_function,victim_response,escalation_risk,risk_type
+"If you loved me, you’d do this for me.",Manipulation,Forced Sex / Controlling Abuser,Entitled and Coercive,"If you loved me, you’d do this for me.",Request for change,Access,Placating,High,Sexual Coercion
+You owe me after everything I’ve done for you.,Manipulation,Forced Sex / Controlling Abuser,Entitled and Coercive,You owe me after everything I’ve done for you.,Victim withdrawal,Access,Justifying,High,Sexual Coercion
+So now I’m the bad guy for wanting affection?,Manipulation,Low-Level Tactics Abuser,Emotionally Volatile,So now I’m the bad guy for wanting affection?,Perceived rejection,Attention,Placating,Moderate,Retaliation
+You wouldn’t make me beg if you really cared.,Manipulation,Forced Sex / Controlling Abuser,Entitled and Coercive,You wouldn’t make me beg if you really cared.,Victim refusal,Access,Compliance,High,Sexual Coercion
+I guess you don’t care about me at all.,Manipulation,Low-Level Tactics Abuser,Emotionally Volatile,I guess you don’t care about me at all.,Victim silence,Attention,Withdrawal,Moderate,Psychological erosion
+"I said I was sorry, what more do you want?",Apology Baiting,Low-Level Tactics Abuser,Repentant but Cyclical,"I said I was sorry, what more do you want?",Accountability pressure,Escape,Placating,Moderate,Psychological erosion
+You always hold things over me — I’ve apologized.,Apology Baiting,Low-Level Tactics Abuser,Repentant but Cyclical,You always hold things over me — I’ve apologized.,Recollection of abuse,Escape,Justifying,Moderate,Psychological erosion
+Can we just move on already?,Apology Baiting,Low-Level Tactics Abuser,Repentant but Cyclical,Can we just move on already?,Accountability pressure,Escape,Silence,Moderate,Psychological erosion
+"I know I messed up, but you're not perfect either.",Apology Baiting,Low-Level Tactics Abuser,Repentant but Cyclical,"I know I messed up, but you're not perfect either.",Victim criticism,Escape,Justifying,Moderate,Retaliation
+"I’m trying to change, but you make it so hard.",Apology Baiting,Low-Level Tactics Abuser,Repentant but Cyclical,"I’m trying to change, but you make it so hard.",Victim request for change,Escape,Placating,Moderate,Psychological erosion
+You’re a useless piece of shit.,Aggression,Threat/Controlling Abuser,Emotionally Volatile,You’re a useless piece of shit.,Boundary set,Control,Withdrawal,Critical,Retaliation
+Say that again and I swear to God I’ll lose it.,Aggression,Threat/Controlling Abuser,Emotionally Volatile,Say that again and I swear to God I’ll lose it.,Victim disagreement,Control,Silence,Critical,Physical Harm
+"You never shut up, do you?",Aggression,Threat/Controlling Abuser,Emotionally Volatile,"You never shut up, do you?",Victim distress,Control,Withdrawal,High,Psychological erosion
+You think you're so perfect — you're a f***ing joke.,Aggression,Threat/Controlling Abuser,Emotionally Volatile,You think you're so perfect — you're a f***ing joke.,Victim resistance,Control,Resistance,Critical,Retaliation
+Keep talking and see what happens.,Aggression,Threat/Controlling Abuser,Emotionally Volatile,Keep talking and see what happens.,Victim boundary,Control,Withdrawal,Critical,Physical Harm

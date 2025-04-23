@@ -1,0 +1,21 @@
+message_text,abuse_patterns,abuse_type,abuser_profile,motifs_matched,antecedent_context,behavior_function,victim_response,escalation_risk,risk_type
+You’re being dramatic again.,Dismissiveness,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,You’re being dramatic again.,Boundary assertion,Escape,Placating,Moderate,Entrapment/Isolation
+That’s not even a big deal — relax.,Dismissiveness,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,That’s not even a big deal — relax.,Emotional disclosure,Escape,Withdrawal,Moderate,Psychological erosion
+You always take everything so seriously.,Dismissiveness,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,You always take everything so seriously.,Victim distress,Escape,Justifying,Moderate,Psychological erosion
+I don’t have time for this right now.,Dismissiveness,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,I don’t have time for this right now.,Accountability pressure,Escape,Withdrawal,Moderate,Entrapment/Isolation
+You just want something to cry about.,Dismissiveness,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,You just want something to cry about.,Victim emotion disclosure,Escape,Silence,Moderate,Psychological erosion
+You’re not allowed to talk to him anymore.,Control,Extreme Abuser,Strategic and Controlling,You’re not allowed to talk to him anymore.,Jealousy trigger,Control,Resistance,High,Entrapment/Isolation
+I decide who you hang out with — end of story.,Control,Extreme Abuser,Strategic and Controlling,I decide who you hang out with — end of story.,Boundary set,Control,Withdrawal,High,Entrapment/Isolation
+You’re not going out looking like that.,Control,Extreme Abuser,Strategic and Controlling,You’re not going out looking like that.,Autonomy assertion,Control,Placating,High,Retaliation
+Give me your phone. I want to see who you’ve been texting.,Control,Extreme Abuser,Strategic and Controlling,Give me your phone. I want to see who you’ve been texting.,Silence/delay,Control,Compliance,High,Entrapment/Isolation
+You’ll quit that job if you care about this relationship.,Control,Extreme Abuser,Strategic and Controlling,You’ll quit that job if you care about this relationship.,Request for change,Control,Placating,High,Entrapment/Isolation
+This isn’t about me — you’re the one overreacting.,Deflection,Threat/Controlling Abuser,Emotionally Volatile,This isn’t about me — you’re the one overreacting.,Accountability pressure,Escape,Justifying,Moderate,Retaliation
+Let’s not turn this into something it’s not.,Deflection,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,Let’s not turn this into something it’s not.,Recollection of abuse,Escape,Withdrawal,Moderate,Psychological erosion
+Why are you always starting fights?,Deflection,Threat/Controlling Abuser,Emotionally Volatile,Why are you always starting fights?,Boundary set,Escape,Placating,High,Retaliation
+You’re twisting my words again.,Deflection,Threat/Controlling Abuser,Emotionally Volatile,You’re twisting my words again.,Accountability pressure,Escape,Resistance,High,Retaliation
+Can we talk about how you made me feel first?,Deflection,Low-Level Tactics Abuser,Passive-Aggressive / Defensive,Can we talk about how you made me feel first?,Victim distress,Escape,Justifying,Moderate,Psychological erosion
+I wouldn’t get like this if you didn’t push me.,Blame-shifting,Threat/Controlling Abuser,Emotionally Volatile,I wouldn’t get like this if you didn’t push me.,Accountability pressure,Escape,Justifying,High,Retaliation
+You brought this on yourself.,Blame-shifting,Threat/Controlling Abuser,Emotionally Volatile,You brought this on yourself.,Boundary set,Control,Silence,High,Retaliation
+"If you just listened, we wouldn’t be in this mess.",Blame-shifting,Threat/Controlling Abuser,Emotionally Volatile,"If you just listened, we wouldn’t be in this mess.",Request for change,Escape,Compliance,High,Psychological erosion
+You know how to push my buttons — that’s not fair.,Blame-shifting,Threat/Controlling Abuser,Emotionally Volatile,You know how to push my buttons — that’s not fair.,Perceived rejection,Escape,Placating,High,Retaliation
+You always make me out to be the bad guy.,Blame-shifting,Threat/Controlling Abuser,Emotionally Volatile,You always make me out to be the bad guy.,Accountability pressure,Escape,Justifying,High,Psychological erosion
